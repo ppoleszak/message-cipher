@@ -1,6 +1,6 @@
-# Message Encryptor
+# Message Cipher Encryptor & Decryptor
 
-This message encryptor combines a simplified Homophonic Cipher with a Transposition Cipher to provide a more secure
+This message encryptor and decryptor combines a simplified Homophonic Cipher with a Transposition Cipher to provide a more secure
 encryption method.
 
 ## How it works
